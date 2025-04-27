@@ -97,11 +97,3 @@ Each dataset preparation script handles:
 ### HeartGPT
 - Transformer-based architecture specifically designed for ECG analysis
 - Processes tokenized representations of ECG signals
-
-## License
-
-[Add appropriate license information]
-
-## Contact
-
-[Add contact information]
